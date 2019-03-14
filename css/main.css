@@ -5,22 +5,6 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
-  box-sizing: border-box;
-  -moz-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  text-size-adjust: 100%;
-}
-
-*, *::before, *::after {
-  box-sizing: inherit;
-}
-
-body {
-  margin: 0;
-}
-
-html {
   background-color: navy;
 }
 
@@ -30,9 +14,9 @@ p, h1 {
 }
 
 p {
-  font-family: 'Patrick Hand SC', cursive;
+  font-family: "Patrick Hand SC", cursive;
 }
 
 h1 {
-  font-family: 'Josefin Slab', serif;
+  font-family: "Josefin Slab", serif;
 }
