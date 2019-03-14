@@ -15,6 +15,7 @@ p, h1 {
 
 p {
   font-family: "Patrick Hand SC", cursive;
+  border-top: 2px solid #deb859;
 }
 
 h1 {
