@@ -1,6 +1,7 @@
 
 html {
   background-color: #003f78;
+  margin: 10px;
 }
 
 p, h1 {
@@ -27,9 +28,4 @@ h1 {
   border-bottom: 2px solid #deb859;
   border-width: medium;
   padding-bottom: 10px;
-}
-
-.unit {
-  text-align: center;
-  padding: 10px;
 }
