@@ -28,3 +28,8 @@ h1 {
   border-width: medium;
   padding-bottom: 10px;
 }
+
+.unit {
+  text-align: center;
+  padding: 10px;
+}
