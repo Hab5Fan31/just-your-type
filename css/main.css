@@ -28,3 +28,8 @@ h1 {
     padding-top: 10px;
     margin-top: 10px;
 }
+
+.border-bottom {
+  border-bottom: 2px solid #deb859;
+  border-width: medium;
+}
