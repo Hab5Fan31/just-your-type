@@ -15,9 +15,16 @@ p, h1 {
 
 p {
   font-family: "Patrick Hand SC", cursive;
-  border-top: 2px solid #deb859;
+
 }
 
 h1 {
   font-family: "Josefin Slab", serif;
+}
+
+.border {
+    border-top: 2px solid #deb859;
+    border-width: medium;
+    padding-top: 10px;
+    margin-top: 10px;
 }
